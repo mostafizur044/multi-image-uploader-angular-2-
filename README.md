@@ -2,9 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
-Screenshot
+Screenshots
 ---
 ![image1](https://user-images.githubusercontent.com/29102674/34325355-6029e136-e8b9-11e7-9fca-1e5af15657b5.png)
+![untitled](https://user-images.githubusercontent.com/29102674/34362100-b6779e74-ea9a-11e7-9a9d-d353c01092de.png)
 
 No plugins only consist of bootstrap, jQuery and angular. Esay to use.
 
